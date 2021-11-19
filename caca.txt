@@ -1,0 +1,11 @@
+jeje
+
+atores
+
+descripcion exd
+:qw
+exit
+':wq
+
+
+
